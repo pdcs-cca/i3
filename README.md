@@ -68,5 +68,5 @@ i3-wm.workspace.auto_back_and_forth: yes
 i3-wm.gaps.focus_follows_mouse: yes
 ~~~
 
-
+![escritorio2](images/escritorio2.png)
 
