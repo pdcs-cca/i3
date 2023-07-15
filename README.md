@@ -48,3 +48,16 @@ En el apartado "Mouse & Touchpad" activar ka opción "Tap to click"  toque para 
 
 ![aspecto](images/mouse.png)
 
+## Barra de notificaciónes 
+
+La configuración de i3 se lleva a cabo en el archivo $HOME/.config/regolith/Xresources [xresources](https://regolith-desktop.com/docs/howtos/override-xres/)
+Una lista de las opciones que pueden ser ajustadas se muestra en la siguiente página: (https://regolith-desktop.com/docs/reference/xresources/)
+
+~~~xml
+i3-wm.bar.position: top
+i3-wm.workspace.layout: tabbed 
+i3-wm.workspace.auto_back_and_forth: yes
+i3-wm.gaps.focus_follows_mouse: yes
+~~~
+
+
