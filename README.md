@@ -30,3 +30,5 @@ Después de descomprimir se puede utilizar el comando  `dd` para escribir el arc
 dd if=ubuntu-22.04.2-desktop-amd64.iso of=/dev/sdb status=progress oflag=direct bs=2M
 ~~~
 
+## Configuración
+
