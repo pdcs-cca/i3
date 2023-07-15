@@ -30,5 +30,21 @@ Después de descomprimir se puede utilizar el comando  `dd` para escribir el arc
 dd if=ubuntu-22.04.2-desktop-amd64.iso of=/dev/sdb status=progress oflag=direct bs=2M
 ~~~
 
-## Configuración
+# Configuración
+
+El primer paquete a instalar es  [screengrab](https://github.com/lxqt/screengrab) para tomar capturas de pantalla.
+
+![ScreenGrab](images/escritorio.png)
+
+## Cambio a tema obscuro 
+
+El menu de opciones de configuración se muestra presionando las teclas <kbd>Win</kbd> + <kbd>c</kbd>
+
+![aspecto](images/aspecto.png)
+
+## Configuración del touchpad
+
+En el apartado "Mouse & Touchpad" activar ka opción "Tap to click"  toque para click
+
+![aspecto](images/mouse.png)
 
